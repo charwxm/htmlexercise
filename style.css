@@ -2,9 +2,12 @@
     border-style: dashed;
     border-radius: 10px;
     padding: 10px;
+        background: rgb(81, 117, 78);
     margin-left: 50px;
     margin-right: 50px;
     font-family: 'Oswald', sans-serif;
+    color: white;
+   
 }
 
 #background {
